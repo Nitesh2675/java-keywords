@@ -38,7 +38,7 @@ class Employee {
 public class EmployeeSystem {
     public static void main(String[] args) {
         // Creating employee objects with ID, name, and designation
-        Employee emp1 = new Employee(1, "Ankush", "Software Developer");
+        Employee emp1 = new Employee(1, "Nitesh", "Software Developer");
         Employee emp2 = new Employee(2, "Jashan", "Peon");
 
         // Displaying details of the first employee
