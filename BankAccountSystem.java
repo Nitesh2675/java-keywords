@@ -30,7 +30,7 @@ class BankAccount {
 // Main class to test BankAccount class
 public class BankAccountSystem {
     public static void main(String[] args) {
-        BankAccount acc1 = new BankAccount(2111981380, "Ankush", 999999999);
+        BankAccount acc1 = new BankAccount(2111981380, "Nitesh", 999999999);
         BankAccount acc2 = new BankAccount(2111981260, "Ansh", 30);
 
         acc1.displayAccountDetails();
